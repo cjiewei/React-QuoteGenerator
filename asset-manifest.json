@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuoteGenerator/static/css/main.9efdc0e9.css",
+    "main.js": "/QuoteGenerator/static/js/main.c7469754.js",
+    "static/media/folklore.jpg": "/QuoteGenerator/static/media/folklore.6a79a4788624a106a88b.jpg",
+    "index.html": "/QuoteGenerator/index.html",
+    "main.9efdc0e9.css.map": "/QuoteGenerator/static/css/main.9efdc0e9.css.map",
+    "main.c7469754.js.map": "/QuoteGenerator/static/js/main.c7469754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efdc0e9.css",
+    "static/js/main.c7469754.js"
+  ]
+}
