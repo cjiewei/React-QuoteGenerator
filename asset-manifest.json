@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QuoteGenerator/static/css/main.9efdc0e9.css",
-    "main.js": "/QuoteGenerator/static/js/main.c7469754.js",
-    "static/media/folklore.jpg": "/QuoteGenerator/static/media/folklore.6a79a4788624a106a88b.jpg",
-    "index.html": "/QuoteGenerator/index.html",
-    "main.9efdc0e9.css.map": "/QuoteGenerator/static/css/main.9efdc0e9.css.map",
-    "main.c7469754.js.map": "/QuoteGenerator/static/js/main.c7469754.js.map"
+    "main.css": "/React-QuoteGenerator/static/css/main.17b349c1.css",
+    "main.js": "/React-QuoteGenerator/static/js/main.c7469754.js",
+    "static/media/folklore.jpg": "/React-QuoteGenerator/static/media/folklore.6a79a4788624a106a88b.jpg",
+    "index.html": "/React-QuoteGenerator/index.html",
+    "main.17b349c1.css.map": "/React-QuoteGenerator/static/css/main.17b349c1.css.map",
+    "main.c7469754.js.map": "/React-QuoteGenerator/static/js/main.c7469754.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efdc0e9.css",
+    "static/css/main.17b349c1.css",
     "static/js/main.c7469754.js"
   ]
 }
